@@ -78,7 +78,12 @@ body {
 
 .aba-conteudo-titulo-principal {
     font-size: 28px;
-    text-align: center;
+    text-align: center;       </div>
+            <div class="contador-digito">
+                <p class="contador-digito-numero" id="seg2"></p>
+                <p class="contador-digito-texto">seg</p>
+            </div>
+     
 }
 .aba-conteudo-titulo-secundario {
     text-align: center;
